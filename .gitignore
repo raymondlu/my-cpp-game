@@ -1,3 +1,7 @@
+# Visual studio local files
+.vs/
+Debug.win32/
+
 # Prerequisites
 *.d
 
