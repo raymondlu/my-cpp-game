@@ -1,3 +1,4 @@
+.DS_Store
 # Visual studio local files
 .vs/
 Debug.win32/
